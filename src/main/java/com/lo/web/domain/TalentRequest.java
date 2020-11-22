@@ -1,4 +1,4 @@
-package com.lo.web.bean;
+package com.lo.web.domain;
 
 import java.io.Serializable;
 
